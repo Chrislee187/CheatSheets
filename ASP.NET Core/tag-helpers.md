@@ -73,15 +73,15 @@
 * auto generate `<optgroup>` auto generated if more than one SelectListItem.Group
 * auto generate multiple attribute if the asp-for is IEnumerable
 
-### Script
+### Script `<script>`
 
-* asp-append-version 
+* asp-append-version
 * asp-src-include/exclude - globbing file patterns
 * asp-fallback-test - tests if library loaded or uses fallback src
 * asp-fallback-src
 * asp-fallback-src-include/exclude
 
-### Link
+### Link `<link>`
 
 * Similar to Script, but...
   * asp-fallback-test-class/test-property/test-value
